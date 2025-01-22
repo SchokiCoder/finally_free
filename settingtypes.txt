@@ -79,3 +79,6 @@ enable_weather (Enable weather) bool true
 
 #    If enabled, non-player actions are logged
 log_non_player_actions (Log non-player action) bool false
+
+#    Default player speed
+default_player_speed (Movement speed of a naked player) float 1.333
