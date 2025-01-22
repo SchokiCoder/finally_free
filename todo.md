@@ -15,6 +15,9 @@
 With that also add Wuzzy's playerphysics mod,
 because that rabbit-hole is a thing apparently.
 
+- [x] update README
+Also put deps in a modpack.
+
 - [ ] replace "minetest." with "core."
 - [ ] add slight pov shift when crouching
 - [ ] bring back old mining sound
