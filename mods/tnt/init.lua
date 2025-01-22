@@ -166,9 +166,9 @@ local function entity_physics(pos, radius, drops)
 		if obj:is_player() then
 			local dir = vector.normalize(vector.subtract(obj_pos, pos))
 			local moveoff = vector.multiply(dir, 2 / dist * radius)
-			obj:add_velocity(moveoff)
+			obj:add_velocity(moveoff * 3.0)
 
-			obj:set_hp(obj:get_hp() - damage)
+			obj:set_hp(obj:get_hp() - damage / 3.0)
 		else
 			local luaobj = obj:get_luaentity()
 

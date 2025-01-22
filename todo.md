@@ -7,13 +7,22 @@ Also put deps in a modpack.
 
 - [x] remove binoculars and screwdriver
 
-- [ ] nerf tnt damage to allow for blast jumps
+- [x] nerf tnt damage and buff knockback to allow for blast jumps
+- [ ] nerf air friction / automatic deceleration
+(and further buff blast knockback)
+
 - [ ] make minimap independent of minimap item
 - [ ] remove crafting grid (too limiting for complex recipes)
 - [ ] remove item: wooden sticks
 - [ ] add sulfur ? (for tnt)
 - [ ] make chests inventory into lists that hold n items regardless of stacking rules
 (much more efficient)
+
+- [ ] using multiple tnt blocks for a blast jump,
+but not standing near the initial block,
+results in little knockback and damage
+
+- [ ] respawning too quickly preserves velocity after death
 
 - [ ] add slight pov shift when crouching
 - [ ] bring back old mining sound
