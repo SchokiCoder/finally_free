@@ -13,7 +13,7 @@ Maybe later.
 
 ### Manually
 
-- Unzip the archive, rename the folder to `minetest_game` and
+- Unzip the archive, rename the folder to `finally_free` and
 place it in `.../minetest/games/`
 
 - GNU/Linux: If you use a system-wide installation place it in `~/.minetest/games/`.
