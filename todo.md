@@ -11,6 +11,9 @@ Also put deps in a modpack.
 - [x] nerf air deceleration (and acceleration) for better blast jumps
 
 - [x] remove map mod
+- [x] increase water sink speed
+Also replace player settings mod with just a conf.
+
 - [ ] remove crafting grid (too limiting for complex recipes)
 - [ ] remove item: wooden sticks
 - [ ] add sulfur ? (for tnt)
