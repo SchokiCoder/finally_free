@@ -10,7 +10,7 @@ Also put deps in a modpack.
 - [x] nerf tnt damage and buff knockback to allow for blast jumps
 - [x] nerf air deceleration (and acceleration) for better blast jumps
 
-- [ ] make minimap independent of minimap item
+- [x] remove map mod
 - [ ] remove crafting grid (too limiting for complex recipes)
 - [ ] remove item: wooden sticks
 - [ ] add sulfur ? (for tnt)
