@@ -8,8 +8,7 @@ Also put deps in a modpack.
 - [x] remove binoculars and screwdriver
 
 - [x] nerf tnt damage and buff knockback to allow for blast jumps
-- [ ] nerf air friction / automatic deceleration
-(and further buff blast knockback)
+- [x] nerf air deceleration (and acceleration) for better blast jumps
 
 - [ ] make minimap independent of minimap item
 - [ ] remove crafting grid (too limiting for complex recipes)
